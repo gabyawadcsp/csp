@@ -15,7 +15,7 @@
         "ID_2": 1,
         "GOVERNORATE": "An Nabatiyah",
         "DISTRICT": "Bent Jbayl",
-        "CSP_ID": 1
+        "CSP_ID": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -571,7 +571,7 @@
         "ID_2": 4,
         "GOVERNORATE": "An Nabatiyah",
         "DISTRICT": "Nabatiyeh",
-        "CSP_ID": 2
+        "CSP_ID": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -1371,7 +1371,7 @@
         "ID_2": 53,
         "GOVERNORATE": "Beirut",
         "DISTRICT": "Beirut-three",
-        "CSP_ID": 3
+        "CSP_ID": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -2971,7 +2971,7 @@
         "ID_2": 11,
         "GOVERNORATE": "Mount Lebanon",
         "DISTRICT": "Aley",
-        "CSP_ID": 5
+        "CSP_ID": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -4943,7 +4943,7 @@
         "ID_2": 12,
         "GOVERNORATE": "Mount Lebanon",
         "DISTRICT": "Baabda",
-        "CSP_ID": 6
+        "CSP_ID": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -5667,7 +5667,7 @@
         "ID_2": 13,
         "GOVERNORATE": "Mount Lebanon",
         "DISTRICT": "Chouf",
-        "CSP_ID": 7
+        "CSP_ID": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -8603,7 +8603,7 @@
         "ID_2": 14,
         "GOVERNORATE": "Mount Lebanon",
         "DISTRICT": "Jbayl",
-        "CSP_ID": 8
+        "CSP_ID": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -10883,7 +10883,7 @@
         "ID_2": 15,
         "GOVERNORATE": "Mount Lebanon",
         "DISTRICT": "Kesrouan",
-        "CSP_ID": 9
+        "CSP_ID": 25
       },
       "geometry": {
         "type": "Polygon",
@@ -13259,7 +13259,7 @@
         "ID_2": 16,
         "GOVERNORATE": "Mount Lebanon",
         "DISTRICT": "Matn",
-        "CSP_ID": 10
+        "CSP_ID": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -14911,7 +14911,7 @@
         "ID_2": 17,
         "GOVERNORATE": "North Lebanon",
         "DISTRICT": "Akkar",
-        "CSP_ID": 11
+        "CSP_ID": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -16671,7 +16671,7 @@
         "ID_2": 18,
         "GOVERNORATE": "North Lebanon",
         "DISTRICT": "Batroun",
-        "CSP_ID": 12
+        "CSP_ID": 26
       },
       "geometry": {
         "type": "Polygon",
@@ -20223,7 +20223,7 @@
         "ID_2": 19,
         "GOVERNORATE": "North Lebanon",
         "DISTRICT": "Bcharreh",
-        "CSP_ID": 13
+        "CSP_ID": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20787,7 +20787,7 @@
         "ID_2": 20,
         "GOVERNORATE": "North Lebanon",
         "DISTRICT": "Koura",
-        "CSP_ID": 14
+        "CSP_ID": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -24747,7 +24747,7 @@
         "ID_2": 22,
         "GOVERNORATE": "North Lebanon",
         "DISTRICT": "Tripoli",
-        "CSP_ID": 16
+        "CSP_ID": 19
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27385,7 +27385,7 @@
         "ID_2": 23,
         "GOVERNORATE": "North Lebanon",
         "DISTRICT": "Zgharta",
-        "CSP_ID": 17
+        "CSP_ID": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -27877,7 +27877,7 @@
         "ID_2": 24,
         "GOVERNORATE": "South Lebanon",
         "DISTRICT": "Jezzine",
-        "CSP_ID": 18
+        "CSP_ID": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -28573,7 +28573,7 @@
         "ID_2": 251,
         "GOVERNORATE": "South Lebanon",
         "DISTRICT": "Saida",
-        "CSP_ID": 19
+        "CSP_ID": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -29805,7 +29805,7 @@
         "ID_2": 26,
         "GOVERNORATE": "South Lebanon",
         "DISTRICT": "Sour",
-        "CSP_ID": 20
+        "CSP_ID": 13
       },
       "geometry": {
         "type": "Polygon",
@@ -34646,7 +34646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#79cb27",
+        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ffffff",
@@ -34657,7 +34657,7 @@
         "ID_2": 252,
         "GOVERNORATE": "South Lebanon",
         "DISTRICT": "Zahrany",
-        "CSP_ID": 21
+        "CSP_ID": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -39829,7 +39829,7 @@
         "ID_2": 52,
         "GOVERNORATE": "Beirut",
         "DISTRICT": "Beirut-two",
-        "CSP_ID": 22
+        "CSP_ID": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -40489,7 +40489,7 @@
         "ID_2": 51,
         "GOVERNORATE": "Beirut",
         "DISTRICT": "Beirut-one",
-        "CSP_ID": 23
+        "CSP_ID": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -40557,7 +40557,7 @@
         "ID_2": 6,
         "GOVERNORATE": "Beqaa",
         "DISTRICT": "Baalbek-Hermel",
-        "CSP_ID": 24
+        "CSP_ID": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -41653,7 +41653,7 @@
         "ID_2": 7,
         "GOVERNORATE": "Beqaa",
         "DISTRICT": "WestBekaa-Rachaya",
-        "CSP_ID": 25
+        "CSP_ID": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -42786,7 +42786,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#95aa00",
+        "stroke": "#808000",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ffffff",
@@ -42797,7 +42797,7 @@
         "ID_2": 2,
         "GOVERNORATE": "An Nabatiyah",
         "DISTRICT": "Marjayoun-Hasbaya",
-        "CSP_ID": 26
+        "CSP_ID": 11
       },
       "geometry": {
         "type": "Polygon",
